@@ -1,0 +1,4 @@
+sitename emagnet v.2 (under construction)
+siteurl www.netdenizen.com/emagnettest
+sitedescr netdenizen.com's most popular site is undergoing a major rewrite. The new site features a PHP/smarty based architecture with fast dynamic page/equation/graphic rendering and excellent support for all browsers. I have big plans for this site, but I <em>need your encouragement</em>! Please <a href="mailto:emagnet@netdenizen.com">let me know</a> what you think of it.
+siteicon www.netdenizen.com/emagnetv2.png
